@@ -1,0 +1,5 @@
+module test
+typeinfo apptest.qmltypes
+prefer :/test/
+MONITOR 1.0 MONITOR.qml
+

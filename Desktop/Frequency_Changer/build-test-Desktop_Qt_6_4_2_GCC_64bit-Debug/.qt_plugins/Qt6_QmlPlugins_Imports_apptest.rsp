@@ -1,0 +1,14 @@
+-rootPath
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/test
+-cmake-output
+-output-file
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apptest.cmake
+-importPath
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test
+-importPath
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug
+-importPath
+/home/jonathan/Qt/6.4.2/gcc_64/./qml
+-qrcFiles
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/.rcc/qmake_test.qrc
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/.rcc/apptest_raw_qml_0.qrc

@@ -1,0 +1,235 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"target_sources"
+		],
+		"files" : 
+		[
+			"/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 670,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 611,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2186,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2189,
+				"parent" : 3
+			}
+		]
+	},
+	"id" : "apptest_tooling::@6890427a1f51a3e7e1df",
+	"name" : "apptest_tooling",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/main.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/MONITOR.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/settings.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/graphic.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/languages.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/standby.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/output.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/bypass.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/booting.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/testando.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/metric.qml",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/main.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/MONITOR.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/settings.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/graphic.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/languages.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/standby.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/output.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/bypass.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/booting.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/testando.qml.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/metric.qml.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "INTERFACE_LIBRARY"
+}

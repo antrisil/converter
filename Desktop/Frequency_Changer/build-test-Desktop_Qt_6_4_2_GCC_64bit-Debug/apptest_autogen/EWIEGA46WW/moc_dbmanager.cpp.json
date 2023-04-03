@@ -1,0 +1,76 @@
+{
+    "classes": [
+        {
+            "className": "DbManager",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "getdatataim",
+                    "returnType": "QList<QString>"
+                },
+                {
+                    "access": "public",
+                    "name": "getloadd",
+                    "returnType": "QList<double>"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "loadd",
+                    "notify": "LoaddChanged",
+                    "read": "getloadd",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<double>",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "getdatataim",
+                    "notify": "DataChanged",
+                    "read": "getdatataim",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<QString>",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "DbManager",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "LoaddChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "DataChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "insertIntoTimeout",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dbmanager.h",
+    "outputRevision": 68
+}

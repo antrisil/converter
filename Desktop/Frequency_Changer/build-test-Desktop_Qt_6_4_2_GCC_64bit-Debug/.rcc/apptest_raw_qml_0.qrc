@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/test/">
+    <file alias="main.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/main.qml</file>
+    <file alias="MONITOR.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/MONITOR.qml</file>
+    <file alias="settings.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/settings.qml</file>
+    <file alias="graphic.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/graphic.qml</file>
+    <file alias="languages.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/languages.qml</file>
+    <file alias="standby.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/standby.qml</file>
+    <file alias="output.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/output.qml</file>
+    <file alias="bypass.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/bypass.qml</file>
+    <file alias="booting.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/booting.qml</file>
+    <file alias="testando.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/testando.qml</file>
+    <file alias="metric.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/metric.qml</file>
+    <file alias="graphicSelect.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/graphicSelect.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,2 @@
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/apptest_autogen/include/../EWIEGA46WW/moc_dbmanager.cpp.json
+/home/jonathan/Desktop/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/apptest_autogen/include/../EWIEGA46WW/moc_pcan.cpp.json
