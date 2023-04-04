@@ -6,6 +6,12 @@
 
 #include <QQmlApplicationEngine>
 
+#include <stdlib.h>
+
+#include <unistd.h>
+
+#include <timer.h>
+
 //constructors
 
 DbManager * db = new DbManager();
@@ -59,6 +65,8 @@ int main(int argc, char * argv[]) {
   viewer.engine() -> rootContext() -> setContextProperty("db", db);
   viewer.setSource(QUrl::fromLocalFile("/home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/main.qml"));
 //  system("xset dpms force off");
+  timer *idleTimer = new timer();
+  QObject::connect(idleTimer, &timer::userActivity, idleTimer, &timer::resetTimer);
 
   // The following are needed to make examples run without having to install the module
   // in desktop environments.

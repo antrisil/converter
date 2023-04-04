@@ -711,7 +711,7 @@ build .qt_plugins/Qt6_QmlPlugins_Imports_appconversor_frequencias.cmake | ${cmak
 #############################################
 # Phony custom command for CMakeFiles/appconversor_frequencias_autogen_timestamp_deps
 
-build CMakeFiles/appconversor_frequencias_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/appconversor_frequencias_autogen_timestamp_deps: phony .rcc/qmlcache/appconversor_frequencias_qmlcache_loader.cpp /home/jonathan/Qt/6.4.2/gcc_64/./libexec/moc /home/jonathan/Qt/6.4.2/gcc_64/lib/libQt6Qml.so.6.4.2 /home/jonathan/Qt/6.4.2/gcc_64/lib/libQt6SerialBus.so.6.4.2
+build CMakeFiles/appconversor_frequencias_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/appconversor_frequencias_autogen_timestamp_deps: phony .rcc/qmlcache/appconversor_frequencias_qmlcache_loader.cpp /home/jonathan/Qt/6.4.2/gcc_64/lib/libQt6SerialBus.so.6.4.2 /home/jonathan/Qt/6.4.2/gcc_64/lib/libQt6Qml.so.6.4.2 /home/jonathan/Qt/6.4.2/gcc_64/./libexec/moc
 
 
 #############################################

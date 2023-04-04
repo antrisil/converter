@@ -1883,8 +1883,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 int r7_1;
 int r2_1;
-double r2_3;
 bool r2_2;
+double r2_3;
 // if(myNumber>0){
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(2, &r2_1)) {
@@ -1973,8 +1973,8 @@ return r2_1;
         wrapCall(aotContext, dataPtr, argumentsPtr, [](const QQmlPrivate::AOTCompiledContext *aotContext, void **argumentsPtr) {
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(25, &r2_1)) {
 aotContext->setInstructionPointer(2);
@@ -2029,8 +2029,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 QString r2_3;
-bool r2_2;
 QObject *r2_1;
+bool r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadAttachedLookup(33, aotContext->qmlScopeObject, &r2_1)) {
 aotContext->setInstructionPointer(2);

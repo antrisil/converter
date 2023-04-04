@@ -5,6 +5,8 @@ project(conversor_frequencias VERSION 0.1 LANGUAGES CXX)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+include_directories(${Qt6X11Extras_INCLUDE_DIRS})
+
 find_package(Qt6 REQUIRED COMPONENTS Concurrent)
 find_package(Qt6 REQUIRED COMPONENTS Charts Core Gui Qml Quick Sql)
 find_package(Qt6 6.2 COMPONENTS Quick SerialBus REQUIRED)

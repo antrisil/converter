@@ -1232,6 +1232,10 @@ appconversor_frequencias_autogen/timestamp: \
   /home/jonathan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/Linux.cmake \
   /home/jonathan/Qt/Tools/CMake/share/cmake-3.24/Modules/Platform/UnixPaths.cmake \
   /usr/include/GL/gl.h \
+  /usr/include/X11/X.h \
+  /usr/include/X11/Xfuncproto.h \
+  /usr/include/X11/Xlib.h \
+  /usr/include/X11/Xosdefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

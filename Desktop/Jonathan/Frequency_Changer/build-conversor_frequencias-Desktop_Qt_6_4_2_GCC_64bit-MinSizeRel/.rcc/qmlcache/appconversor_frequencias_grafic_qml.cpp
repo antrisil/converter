@@ -3511,11 +3511,11 @@ Q_UNUSED(argumentsPtr)
 QJSPrimitiveValue r11_1;
 QStringList r7_1;
 QObject *r8_1;
+QJSPrimitiveValue r2_5;
 QObject *r2_1;
-QStringList r2_2;
 bool r2_3;
 int r2_4;
-QJSPrimitiveValue r2_5;
+QStringList r2_2;
 QStringList r12_1;
 // var label_strings = axisLabels.categoriesLabels
 // generate_LoadQmlContextPropertyLookup
@@ -3642,8 +3642,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(287, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -3804,8 +3804,8 @@ Q_UNUSED(argumentsPtr)
 double r9_1;
 double r7_1;
 double r8_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(335, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -3859,8 +3859,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(339, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -3916,8 +3916,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(360, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -3984,8 +3984,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(365, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4047,8 +4047,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(369, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4096,8 +4096,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(373, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4144,8 +4144,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(377, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4236,8 +4236,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(383, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4273,8 +4273,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(385, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4304,8 +4304,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(437, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4335,8 +4335,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(439, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4367,8 +4367,8 @@ Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
 double r8_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(441, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4416,8 +4416,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-double r2_2;
 QObject *r2_1;
+double r2_2;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadScopeObjectPropertyLookup(445, &r2_1)) {
 aotContext->setInstructionPointer(5);
@@ -4593,8 +4593,8 @@ return r2_2;
 Q_UNUSED(aotContext)
 Q_UNUSED(argumentsPtr)
 double r7_1;
-QObject *r2_1;
 double r2_2;
+QObject *r2_1;
 // generate_LoadQmlContextPropertyLookup
 while (!aotContext->loadContextIdLookup(457, &r2_1)) {
 aotContext->setInstructionPointer(5);

@@ -23,7 +23,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 26,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
@@ -47,7 +47,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 798,
+				"line" : 808,
 				"parent" : 4
 			}
 		]
@@ -58,8 +58,8 @@
 			"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "appconversor_frequencias_qmllint::@6890427a1f51a3e7e1df",
-	"name" : "appconversor_frequencias_qmllint",
+	"id" : "appconversor_frequencias_qmllint_json::@6890427a1f51a3e7e1df",
+	"name" : "appconversor_frequencias_qmllint_json",
 	"paths" : 
 	{
 		"build" : ".",
@@ -87,13 +87,13 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/CMakeFiles/appconversor_frequencias_qmllint",
+			"path" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/CMakeFiles/appconversor_frequencias_qmllint_json",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/CMakeFiles/appconversor_frequencias_qmllint.rule",
+			"path" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/CMakeFiles/appconversor_frequencias_qmllint_json.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

@@ -7082,6 +7082,18 @@
 			"value" : "/home/jonathan/Qt/6.4.2/gcc_64/bin/qmake"
 		},
 		{
+			"name" : "Qt5X11Extras_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt5X11Extras."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Qt5X11Extras_DIR-NOTFOUND"
+		},
+		{
 			"name" : "Qt6Charts_DIR",
 			"properties" : 
 			[
@@ -7344,6 +7356,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6Widgets"
+		},
+		{
+			"name" : "Qt6X11Extras_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for Qt6X11Extras."
+				}
+			],
+			"type" : "PATH",
+			"value" : "Qt6X11Extras_DIR-NOTFOUND"
 		},
 		{
 			"name" : "Qt6_DIR",

@@ -617,6 +617,10 @@
   /home/jonathan/Qt/6.4.2/gcc_64/include/QtWidgets/qtwidgetsglobal.h \
   /home/jonathan/Qt/6.4.2/gcc_64/include/QtWidgets/qwidget.h \
   /usr/include/GL/gl.h \
+  /usr/include/X11/X.h \
+  /usr/include/X11/Xfuncproto.h \
+  /usr/include/X11/Xlib.h \
+  /usr/include/X11/Xosdefs.h \
   /usr/include/alloca.h \
   /usr/include/asm-generic/bitsperlong.h \
   /usr/include/asm-generic/errno-base.h \

@@ -314,5 +314,41 @@
         ],
         "inputFile": "pcan.h",
         "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "timer",
+                "object": true,
+                "qualifiedClassName": "timer",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "userActivity",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "standby",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "resetTimer",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "timer.h",
+        "outputRevision": 68
     }
 ]

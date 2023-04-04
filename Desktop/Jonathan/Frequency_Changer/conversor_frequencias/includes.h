@@ -36,4 +36,5 @@
 #include <QDesktopServices>
 #include <QScreen>
 #include <QTimer>
+#include <X11/Xlib.h>
 #endif // INCLUDES_H

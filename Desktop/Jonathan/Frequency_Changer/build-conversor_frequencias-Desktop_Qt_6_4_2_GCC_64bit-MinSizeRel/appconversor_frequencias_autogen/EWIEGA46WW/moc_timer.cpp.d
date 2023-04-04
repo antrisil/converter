@@ -1,7 +1,6 @@
-/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/appconversor_frequencias_autogen/EWIEGA46WW/moc_dbmanager.cpp: /home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/dbmanager.h \
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/appconversor_frequencias_autogen/EWIEGA46WW/moc_timer.cpp: /home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/timer.h \
   /home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/appconversor_frequencias_autogen/moc_predefs.h \
   /home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/includes.h \
-  /home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/pcan.h \
   /home/jonathan/Qt/6.4.2/gcc_64/include/QtConcurrent/QtConcurrent \
   /home/jonathan/Qt/6.4.2/gcc_64/include/QtConcurrent/QtConcurrentDepends \
   /home/jonathan/Qt/6.4.2/gcc_64/include/QtConcurrent/QtConcurrentRun \

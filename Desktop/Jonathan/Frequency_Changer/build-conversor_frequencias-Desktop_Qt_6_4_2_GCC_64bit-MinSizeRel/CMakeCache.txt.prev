@@ -297,6 +297,9 @@ QT_ADDITIONAL_PACKAGES_PREFIX_PATH:STRING=
 //No help, variable specified on the command line.
 QT_QMAKE_EXECUTABLE:FILEPATH=/home/jonathan/Qt/6.4.2/gcc_64/bin/qmake
 
+//The directory containing a CMake configuration file for Qt5X11Extras.
+Qt5X11Extras_DIR:PATH=Qt5X11Extras_DIR-NOTFOUND
+
 //The directory containing a CMake configuration file for Qt6Charts.
 Qt6Charts_DIR:PATH=/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6Charts
 
@@ -362,6 +365,9 @@ Qt6WidgetsTools_DIR:PATH=/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6WidgetsTool
 
 //The directory containing a CMake configuration file for Qt6Widgets.
 Qt6Widgets_DIR:PATH=/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6Widgets
+
+//The directory containing a CMake configuration file for Qt6X11Extras.
+Qt6X11Extras_DIR:PATH=Qt6X11Extras_DIR-NOTFOUND
 
 //The directory containing a CMake configuration file for Qt6.
 Qt6_DIR:PATH=/home/jonathan/Qt/6.4.2/gcc_64/lib/cmake/Qt6
