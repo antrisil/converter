@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/test">
+    <file alias="qmldir">/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-test-Desktop_Qt_6_4_2_GCC_64bit-Debug/test/qmldir</file>
+  </qresource>
+</RCC>
+

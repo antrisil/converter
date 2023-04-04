@@ -1,0 +1,124 @@
+{
+    "classes": [
+        {
+            "className": "DbManager",
+            "methods": [
+                {
+                    "access": "public",
+                    "name": "selectAllTables",
+                    "returnType": "QList<QString>"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "currentTable",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "loadParameter",
+                    "returnType": "QList<double>"
+                },
+                {
+                    "access": "public",
+                    "name": "getLoad",
+                    "returnType": "QList<double>"
+                },
+                {
+                    "access": "public",
+                    "name": "getLoad2",
+                    "returnType": "QList<double>"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "load",
+                    "notify": "LoadChanged",
+                    "read": "getLoad",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<double>",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "load2",
+                    "notify": "LoadChanged2",
+                    "read": "getLoad2",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QList<double>",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "getlast",
+                    "notify": "LastChanged",
+                    "read": "getlast",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "deleteFirst",
+                    "read": "deleteFirst",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QString",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "DbManager",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "LoadChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "LoadChanged2",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "AllTablesChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "LastChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dbmanager.h",
+    "outputRevision": 68
+}

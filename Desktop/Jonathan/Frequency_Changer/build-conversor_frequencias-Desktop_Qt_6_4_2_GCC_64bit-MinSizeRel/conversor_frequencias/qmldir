@@ -1,0 +1,5 @@
+module conversor_frequencias
+typeinfo appconversor_frequencias.qmltypes
+prefer :/conversor_frequencias/
+MONITOR 1.0 MONITOR.qml
+

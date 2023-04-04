@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/test/">
+    <file alias="Main.qml">/home/jonathan/Desktop/Jonathan/Frequency_Changer/test/Main.qml</file>
+  </qresource>
+</RCC>
+

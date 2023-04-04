@@ -1,0 +1,2 @@
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/appconversor_frequencias_autogen/include/../EWIEGA46WW/moc_dbmanager.cpp.json
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/appconversor_frequencias_autogen/include/../EWIEGA46WW/moc_pcan.cpp.json

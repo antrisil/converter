@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-fa43e5a36d23de384e81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "conversor_frequencias",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-MinSizeRel-8ef71345cd3391207a82.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-MinSizeRel-8078bab06d3751530af7.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-MinSizeRel-58767d159452de64c8cd.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias-MinSizeRel-87d3e18b5a870ccef871.json",
+					"name" : "appconversor_frequencias",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_autogen-MinSizeRel-04f735563b469e200ed4.json",
+					"name" : "appconversor_frequencias_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_autogen_timestamp_deps-MinSizeRel-15631e9149160e3cca20.json",
+					"name" : "appconversor_frequencias_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_other_files-MinSizeRel-b770609b714ee96657f5.json",
+					"name" : "appconversor_frequencias_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_qmlimportscan-MinSizeRel-358f867ee8f02180cac8.json",
+					"name" : "appconversor_frequencias_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_qmllint-MinSizeRel-99ad08987f490c59bc84.json",
+					"name" : "appconversor_frequencias_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_qmllint_json-MinSizeRel-40c4c729108cef2cc3d5.json",
+					"name" : "appconversor_frequencias_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_qmltyperegistration-MinSizeRel-078a51f70041f1b138c8.json",
+					"name" : "appconversor_frequencias_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appconversor_frequencias_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appconversor_frequencias_tooling-MinSizeRel-ff224ab8cdf1683f54ed.json",
+					"name" : "appconversor_frequencias_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel",
+		"source" : "/home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

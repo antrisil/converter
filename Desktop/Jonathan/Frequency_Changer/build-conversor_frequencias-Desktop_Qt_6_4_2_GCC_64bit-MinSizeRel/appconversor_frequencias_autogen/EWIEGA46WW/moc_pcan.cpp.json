@@ -1,0 +1,192 @@
+{
+    "classes": [
+        {
+            "className": "pcan",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "getLoad",
+                    "notify": "LoadChanged",
+                    "read": "getLoad",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "getAB",
+                    "notify": "ABChanged",
+                    "read": "getAB",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "getBC",
+                    "notify": "BCChanged",
+                    "read": "getBC",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "getCA",
+                    "notify": "CAChanged",
+                    "read": "getCA",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 4,
+                    "name": "getInvPhaseAVolt",
+                    "notify": "InvPhaseAVoltChanged",
+                    "read": "getInvPhaseAVolt",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 5,
+                    "name": "getInvPhaseBVolt",
+                    "notify": "InvPhaseBVoltChanged",
+                    "read": "getInvPhaseBVolt",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 6,
+                    "name": "getInvPhaseCVolt",
+                    "notify": "InvPhaseCVoltChanged",
+                    "read": "getInvPhaseCVolt",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 7,
+                    "name": "getHumidity",
+                    "notify": "RHChanged",
+                    "read": "getHumidity",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 8,
+                    "name": "getTemp",
+                    "notify": "TempChanged",
+                    "read": "getTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "pcan",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "LoadChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "ABChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "BCChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "CAChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "InvPhaseAVoltChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "InvPhaseBVoltChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "InvPhaseCVoltChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "RHChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "TempChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "pcan.h",
+    "outputRevision": 68
+}

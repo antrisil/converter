@@ -33,4 +33,7 @@
 #include <QtConcurrent>
 #include <QMutex>
 #include <QVector>
+#include <QDesktopServices>
+#include <QScreen>
+#include <QTimer>
 #endif // INCLUDES_H

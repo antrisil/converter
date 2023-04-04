@@ -1,0 +1,14 @@
+-rootPath
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias
+-cmake-output
+-output-file
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/.qt_plugins/Qt6_QmlPlugins_Imports_appconversor_frequencias.cmake
+-importPath
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/conversor_frequencias
+-importPath
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel
+-importPath
+/home/jonathan/Qt/6.4.2/gcc_64/./qml
+-qrcFiles
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/.rcc/qmake_conversor_frequencias.qrc
+/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/.rcc/appconversor_frequencias_raw_qml_0.qrc

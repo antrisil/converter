@@ -19,6 +19,8 @@ qt_add_executable(appconversor_frequencias
     includes.h
     pcan.h
     pcan.cpp
+    timer.cpp
+    timer.h
 )
 
 qt_add_qml_module(appconversor_frequencias

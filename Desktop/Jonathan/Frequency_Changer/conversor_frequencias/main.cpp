@@ -58,6 +58,7 @@ int main(int argc, char * argv[]) {
   viewer.engine() -> rootContext() -> setContextProperty("pcan", pcan_);
   viewer.engine() -> rootContext() -> setContextProperty("db", db);
   viewer.setSource(QUrl::fromLocalFile("/home/jonathan/Desktop/Jonathan/Frequency_Changer/conversor_frequencias/main.qml"));
+//  system("xset dpms force off");
 
   // The following are needed to make examples run without having to install the module
   // in desktop environments.

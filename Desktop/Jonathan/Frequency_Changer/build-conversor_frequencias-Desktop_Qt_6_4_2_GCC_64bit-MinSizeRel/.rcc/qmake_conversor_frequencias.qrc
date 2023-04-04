@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/conversor_frequencias">
+    <file alias="qmldir">/home/jonathan/Desktop/Jonathan/Frequency_Changer/build-conversor_frequencias-Desktop_Qt_6_4_2_GCC_64bit-MinSizeRel/conversor_frequencias/qmldir</file>
+  </qresource>
+</RCC>
+
